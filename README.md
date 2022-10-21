@@ -3,9 +3,7 @@ Presentation for the session 367 "Agent-based Modelling of Socio-ecological Syst
 
 EAA2022 page: https://www.e-a-a.org/eaa2022
 
-Prepared with reveal.js (see https://revealjs.com/)
-
-Slides: https://andros-spica.github.io/EAA-NASSA-Angourakis-et-al-2022/
+Prepared with MS Microsoft PowerPoint
 
 Authors
 
