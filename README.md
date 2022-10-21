@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7233846.svg)](https://doi.org/10.5281/zenodo.7233846)
 # Developing best practices for an open library of archaeological ABM modules: lessons learned from other initiatives
 Presentation for the session 367 "Agent-based Modelling of Socio-ecological Systems in Archaeology. Towards a New Research Community" at the EAA 2022 “[Re]integration” conference in Budapest (31 August - 3 September 2022).
 
